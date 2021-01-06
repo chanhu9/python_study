@@ -23,7 +23,6 @@ if __name__ == '__main__':
     recv_data_length = len(recv_data)
     print(f"接受的数据长度为{recv_data_length}")
 
-
     recv_content = recv_data.decode("gbk")
     print(f"接受的客户端内容:{recv_content}")
 
@@ -34,10 +33,6 @@ if __name__ == '__main__':
 
     service_client_socket.close()
     server_tcp_socket.close()
-
-
-
-
 
 
 
