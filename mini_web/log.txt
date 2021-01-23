@@ -1,0 +1,8 @@
+2021-01-08 15:09:20,966--mylogging.py--[line:13]--INFO--这个傻狗I一个
+2021-01-08 15:09:20,967--mylogging.py--[line:14]--DEBUG--这个是一个傻狗
+2021-01-08 15:09:20,967--mylogging.py--[line:15]--WARNING--哈哈哈杀掉一个
+2021-01-08 15:09:20,967--mylogging.py--[line:16]--ERROR--我说的是沙雕
+2021-01-08 15:09:33,221--mylogging.py--[line:13]--INFO--这个傻狗I一个
+2021-01-08 15:09:33,221--mylogging.py--[line:14]--DEBUG--这个是一个傻狗
+2021-01-08 15:09:33,221--mylogging.py--[line:15]--WARNING--哈哈哈杀掉一个
+2021-01-08 15:09:33,221--mylogging.py--[line:16]--ERROR--我说的是沙雕
